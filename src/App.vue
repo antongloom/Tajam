@@ -48,16 +48,6 @@
 		    									<!--<img src="./assets/images/face-icon.png" alt="Facebook"> -->
 		    								</a>
 		    							</li>
-		    							<!-- <li>
-		    								<a href="#">
-		    									<img src="./assets/images/twi.png" alt="Twitter">
-		    								</a>
-		    							</li>
-		    							<li>
-		    								<a href="#">
-		    									<img src="./assets/images/inst.png" alt="Instagram">
-		    								</a>
-		    							</li> -->
 		    						</ul>
 		    					</div>
 		    				</div>
