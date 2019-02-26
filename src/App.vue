@@ -45,7 +45,7 @@
 		    						<ul class="overlay__social">
 		    							<li>
 		    								<a href="#">
-		    									<!--<img src="./assets/images/face-icon.png" alt="Facebook"> -->
+		    									
 		    								</a>
 		    							</li>
 		    						</ul>
